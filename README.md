@@ -7,7 +7,7 @@ power conversion in a compact embedded platform.
 
 ---
 
-# Hardware and Product
+# Hardware and Prototype
 
 <img width="1024" height="712" alt="image" src="https://github.com/user-attachments/assets/c7c16b1e-f26d-4c43-960e-f89352be9fdd" />
 
@@ -30,19 +30,19 @@ The board is partitioned into functional domains to ensure signal integrity, RF 
 and power stability: 
   
 i. Power Conversion Stage 
-Wide-range DC input regulated through a high-efficiency switching converter to 
+- Wide-range DC input regulated through a high-efficiency switching converter to 
 generate rails for digital logic, RF modules, and I/O drivers. 
 
 ii.Control Core 
-MCU subsystem responsible for system control, peripheral coordination, and 
+- MCU subsystem responsible for system control, peripheral coordination, and 
 communication management. 
 
 iii. Long-Range RF Communication 
-Integrated RF module connected to an external antenna for long-distance wireless 
+- Integrated RF module connected to an external antenna for long-distance wireless 
 connectivity. 
 
 iv. Cellular Communication 
-Cellular modem provides backhaul connectivity to remote servers and cloud 
+- Cellular modem provides backhaul connectivity to remote servers and cloud 
 infrastructure. 
 
 ---
