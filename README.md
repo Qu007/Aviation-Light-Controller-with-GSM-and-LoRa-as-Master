@@ -8,6 +8,9 @@ power conversion in a compact embedded platform.
 ---
 
 # Hardware and Product
+
+<img width="1024" height="712" alt="image" src="https://github.com/user-attachments/assets/c7c16b1e-f26d-4c43-960e-f89352be9fdd" />
+
 <img width="541" height="461" alt="1  LORA - GSM Master" src="https://github.com/user-attachments/assets/137fa6b8-eece-48f1-afa0-58c095e2951f" />
 
 
