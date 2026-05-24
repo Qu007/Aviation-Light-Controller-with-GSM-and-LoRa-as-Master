@@ -14,11 +14,11 @@ power conversion in a compact embedded platform.
 ---
 
 # Responsibilities 
-• Complete PCB design and layout 
-• Power architecture definition 
-• RF and antenna integration 
-• Industrial I/O interface design 
-• System bring-up and hardware validation 
+- Complete PCB design and layout 
+- Power architecture definition 
+- RF and antenna integration 
+- Industrial I/O interface design 
+- System bring-up and hardware validation 
 
 ---
 
@@ -45,9 +45,9 @@ infrastructure.
 ---
 
 # Design Highlights 
-• Switching power layout on compact PCB 
-• Functional domain separation (power / digital / RF / I/O) 
-• Antenna placement and ground reference 
-• High-current switching regulator with thermal copper spreading 
-• Industrial protection and filtering implementation 
-• Decoupling and return-path control for noise containment 
+- Switching power layout on compact PCB 
+- Functional domain separation (power / digital / RF / I/O) 
+- Antenna placement and ground reference 
+- High-current switching regulator with thermal copper spreading 
+- Industrial protection and filtering implementation 
+- Decoupling and return-path control for noise containment 
